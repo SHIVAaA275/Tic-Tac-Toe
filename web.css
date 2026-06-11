@@ -66,7 +66,7 @@ body{
 
 
 .msg-container{
-    height: 100vmin;
+    height: 100vh;
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
